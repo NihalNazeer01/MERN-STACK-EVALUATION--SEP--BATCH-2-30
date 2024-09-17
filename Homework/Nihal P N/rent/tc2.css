@@ -1,0 +1,51 @@
+.body{
+    width: 1510px;
+    height: 710px;
+    background: url(logo123.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: column;
+   
+
+}
+.h{
+    width: 1510px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.m{
+    width: 1510px;
+    height: 400px;
+
+}
+
+.f1{
+    width: 1510px;
+    height: 105px; 
+    margin-left: 15px;
+}
+.f2{
+    width: 1510px;
+    height: 105px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.f21{
+    width: 1510px;
+    height: 105px;
+    display: flex;
+    
+}
+.list1{
+    display: flex;
+    gap: 25px;
+    padding-right: 25px;
+}
+*{
+    list-style: none;
+}

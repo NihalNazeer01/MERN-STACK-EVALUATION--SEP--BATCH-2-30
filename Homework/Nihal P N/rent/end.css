@@ -1,0 +1,44 @@
+.body{
+    width: 1510px;
+    height: 710px;
+    background: url(logo123.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #f9f4f4;
+}
+.c1{
+    width: 1510px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+.c2{
+    width: 1510px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+.c3{
+    width: 1510px;
+    height: 100px;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    color: rgb(237, 241, 240);
+}
+.c41{
+    width: 1510px;
+    height: 210px;
+}
+.c42{
+    width: 1510px;
+    height: 110px;
+    margin-left: 250px;
+}
+.c5{
+    width: 1510px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}

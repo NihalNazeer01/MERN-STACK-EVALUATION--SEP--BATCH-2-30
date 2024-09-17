@@ -1,0 +1,130 @@
+.tot{
+    width: 1510px;
+    height: 710px;
+    background-color: black;
+    display: flex;
+}
+.main{
+    width: 1510px;
+    height: 700px;
+    background-color: black;
+    background: url(lo6.jpg);
+    background-position: center;
+    background-size: 500px;
+    background-repeat: no-repeat;
+
+}
+.main1{
+    width: 1510px;
+    height: 550px;
+}
+.main2{
+    width: 1510px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+.main21{
+    width: 1510px;
+    height: 150px;
+    
+    background-color: blanchedalmond;
+    background: url(lo1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+     background-size: 250px;
+
+}
+.body{
+    height: 710px;
+    width: 1510px;
+    background: url(z1.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #f3eeee;
+    animation: moti 10s ease forwards;
+}
+@keyframes moti{
+    0% {
+       transform: translatex(0px) translateY(-1510px);
+  
+  }
+    100%{
+      transform: translatex(0px) translateY(-700px);
+      
+    }
+}
+
+.list{
+    display: flex;
+    gap: 25px;
+    padding-right: 25px;
+}
+*{
+    list-style: none;
+}
+.h{
+    width: 1510px;
+    height: 55px;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+.h1{
+    width: 100px;
+    height: 55px;
+    background: url(iogo.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.h2{
+    width: 55px;
+    height: 1410px;
+    display: flex;
+    align-items: center;
+    margin-left: 650px;
+}
+.m{
+    width: 1510px;
+    height: 600px;
+    display: flex;
+    justify-content: center;align-items: start;
+    
+}
+.c1{
+    width: 800px;
+    height: 200px;
+    
+    background: url(lo2.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.f{
+    width: 1510px;
+    height: 55px;
+    display: flex;
+}
+
+.f1{
+    width: 755px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+}
+
+.f2{
+    width: 755px;
+    height: 55px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-right: 25PX;
+}
