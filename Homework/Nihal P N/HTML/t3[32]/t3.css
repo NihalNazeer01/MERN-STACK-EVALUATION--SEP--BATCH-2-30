@@ -1,0 +1,95 @@
+.body{
+    height: 600px;
+    width: 1200px;
+    font-family: 'poppins',sans-serif;
+    display: flex;
+}
+.b1{
+    height: 600px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+.b11{
+    height: 100px;
+    width: 500px;
+
+}
+.b12{
+    height: 500px;
+    width: 500px;
+    margin-top: 100px;
+    padding-left: 30px;
+}
+.b2{
+    height: 600px;
+    width: 700px;
+    background-color: rgb(252, 250, 250);
+}
+.b21{
+    height: 50px;
+    width:700 px;
+    display: flex;
+    padding-left: 465px;
+    padding-top: 25px;
+    gap: 10px;
+}
+.b22{
+    height:50px;
+    width:700px;
+    padding-left: 25px;
+
+}
+.b23{
+    height:50px;
+    width:700px;
+    padding-left: 25PX;
+    display: flex;
+    margin-top: 10px;
+    gap: 10px;
+}
+.b24{
+    height:50px;
+    width:700px;
+    padding-left: 25px;
+}
+.b25{
+    height:100px;
+    width:700px;
+padding-left: 25px;
+
+}
+.b26{
+    height:100px;
+    width:700 px;
+    padding-left: 25px;
+}
+.b27{
+    height:50px;
+    width:700px;
+    padding-left: 25px;
+    margin-top: 15px;
+
+}
+.b28{
+    height:150px;
+    width:700px;
+    padding-left: 25px;
+}
+.title{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-content: center;
+}
+.title::before, .title::after{
+    content: "";
+    height: 2px;
+    background-color: black;
+    display: block;
+}
+
+
+
+

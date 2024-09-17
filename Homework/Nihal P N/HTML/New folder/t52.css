@@ -1,0 +1,136 @@
+.body{
+    height: 700px;
+    width: 1700;
+    background-color: #27282c;
+    display: flex;
+}
+
+.b1{
+    height: 700px;
+    width: 450px;
+    color: aliceblue;
+    background: url(gr.webp);
+}
+.ba{
+    height: 150px;
+    width: 450px;
+}
+.b11{
+    height: 40px;
+    width: 400px;
+    background-color: blueviolet;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px 0px 0px 40px;
+}
+.b12{
+    height: 40px;
+    width: 400px;
+    background-color: blueviolet;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px 0px 0px 40px;
+}
+.b13{
+    height: 40px;
+    width: 400px;
+    background-color: blueviolet;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px 0px 0px 40px;
+}
+.b14{
+    height: 40px;
+    width: 400px;
+    background-color: blueviolet;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px 0px 0px 40px;
+}
+.b15{
+    height: 40px;
+    width: 400px;
+    background-color: blueviolet;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px 0px 0px 40px;
+}
+.b16{
+    height: 40px;
+    width: 400px;
+    background-color: blueviolet;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px 0px 0px 40px;
+}
+.b17{
+    height: 40px;
+    width: 400px;
+    background-color: blueviolet;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px 0px 0px 40px;
+}
+.b2{
+    height: 700px;
+    width: 1250px;
+    color: aliceblue;
+
+}
+.b3{
+    height: 500px;
+    width: 1000px;
+    border: 10px;
+    border-radius: 45px;
+    margin-left:35px;
+    margin-top: 50px;
+    outline-style: double;
+    outline-color: rgb(25, 24, 23);
+}
+.b31{
+    height: 100px;
+    width: 1000px;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    
+
+}
+.b32{
+    height: 100px;
+    width: 1000px;padding-left: 50px;
+}
+.b33{
+    height: 200px;
+    width: 1000px;
+    padding-left: 50px;
+}
+.b34{
+    height: 100px;
+    width: 1000px;
+    padding-left: 50px;
+}
+
+
+.list{
+    display: flex;
+    gap: 25px;
+    padding-right: 25px;
+}
+*{
+    list-style: none;
+}

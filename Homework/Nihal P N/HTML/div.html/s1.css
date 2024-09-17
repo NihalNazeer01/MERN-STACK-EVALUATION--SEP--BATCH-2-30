@@ -1,0 +1,44 @@
+.body{
+    height: 100px; 
+    width: 80x;
+    display: flex;
+}
+  .left{
+    height: 100px; 
+    width: 30px;
+    background-color:grey;
+}
+.b3{
+    height: 100px; 
+    width: 50px;
+}
+  .top{
+    height: 40px; 
+    width: 50px;
+    background-color:green;
+}
+  .b1{
+    height: 60px; 
+    width: 50px; 
+    display: flex;
+}
+  .right{
+    height: 60px; 
+    width: 40px;
+    background-color:yellow;
+}
+.b2{
+    height: 60px; 
+    width: 10px;
+}
+  .bottom{
+    height: 40px; 
+    width: 10px;
+    background-color:red;
+}
+  .center{
+    height: 20px; 
+    width: 10px;
+    background-color:indigo;
+}
+  

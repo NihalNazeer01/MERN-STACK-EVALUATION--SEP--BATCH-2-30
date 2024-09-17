@@ -1,0 +1,63 @@
+.body{
+    height: 500px; 
+    width: 500px; 
+}
+  .b1{
+    height:50px;
+    width:500px;
+    display: flex;
+}
+  .header{
+    height: 50px; 
+    width: 100px;
+    background-color:black;
+}
+  .me{
+    height: 50px;
+    width: 400px;
+    background-color: rgb(250, 5, 5);
+}
+.hero{
+    height: 250px; 
+    width: 500px;
+    background-color:rgb(13, 185, 237);
+}
+  .b2{
+    height: 120px;
+    width: 500px;
+    display: flex;
+
+}
+  .main{
+    height: 120px; 
+    width: 200px; 
+    background-color: rgb(18, 6, 251);
+}
+
+  .b3{
+    height: 120;
+    width: 300;
+    display: flex;
+}
+  .b4{
+    height: 120px;
+    width: 150px;
+}
+  .b5{
+    height: 120px;
+    width: 150px;
+}
+.extra{
+    height: 60px; 
+    width: 150px;
+    background-color:rgb(23, 249, 11);
+}
+.image{
+    height: 60px; 
+    width: 150px;
+    background-color:rgb(255, 166, 0);
+}
+.banner{
+    height: 80px; 
+    width: 500px;
+    background-color:yellow;

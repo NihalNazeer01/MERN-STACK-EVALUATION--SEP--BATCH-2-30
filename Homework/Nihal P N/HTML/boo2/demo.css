@@ -1,0 +1,7 @@
+.body{
+    height: 600px;
+    width: 600px;
+    background:url(1234.avif);
+    background-position: center;
+    background-size: cover;
+}

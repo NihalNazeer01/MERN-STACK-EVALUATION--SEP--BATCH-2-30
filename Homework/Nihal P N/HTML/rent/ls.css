@@ -1,0 +1,165 @@
+.body{
+    width: 1510px;
+    height: 3800px;
+    background-color: black;
+    color: white;
+}
+.h{
+    width: 1510px;
+    height: 50px;
+    background-color:#26282C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0PX;
+}
+.h1{
+    width: 1510px;
+    height: 50px;
+    
+}
+.f{
+    width: 1510px;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+}
+
+.hf{
+    width: 1510px;
+    height: 50px;
+    
+    display: flex;
+    align-items: center;
+}
+
+.zf{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(4, 4, 4);
+    border-radius: 25px;
+    margin-left: 455px;
+    background: url(f.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.f1{
+    width: 1510px;
+    height: 50px;
+}
+.l{
+    width: 1510px;
+    height: 650px;
+}
+.hl{
+    width: 1510px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.zl{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(4, 4, 4);
+    border-radius: 25px;
+    margin-left: 455px;
+    background: url(l1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.l1{
+    width: 1510px;
+    height: 50px;
+   
+}
+.b{
+    width: 1510px;
+    height: 650px;
+}
+.hb{
+    width: 1510px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.zb{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(4, 4, 4);
+    border-radius: 25px;
+    margin-left: 455px;
+    background: url(b.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.b1{
+    width: 1510px;
+    height: 50px;
+}
+.c{
+    width: 1510px;
+    height: 650px;
+}
+.hc{
+    width: 1510px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.zc{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(4, 4, 4);
+    border-radius: 25px;
+    margin-left: 455px;
+    background: url(c.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.c1{
+    width: 1510px;
+    height: 50px;
+}
+.m{
+    width: 1510px;
+    height: 50px;
+}
+.hm{
+    width: 1510px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.zm{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(4, 4, 4);
+    border-radius: 25px;
+    margin-left: 455px;
+    background: url(m.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.m1{
+    width: 1510px;
+    height: 50px;
+}
+.e{
+    width: 1510px;
+    height: 50px;
+    background-color: #26282C;
+    position: sticky;
+    bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1000px;
+}

@@ -1,0 +1,48 @@
+.body{
+    height: 600px; 
+    width: 1000x;
+}
+  .header{
+    height: 100px; 
+    width: 1000px;
+    background-color:grey;
+}
+.nav{
+    height: 100px; 
+    width: 1000px;
+    background-color:red;
+
+}
+  .footer{
+    height: 100px; 
+    width: 1000px;
+    background-color:green;
+}
+  .content{
+    height: 300px; 
+    width: 1000px;
+    display:flex
+    
+}
+  .left{
+    height: 300px; 
+    width: 650px;
+    
+}
+.article{
+    height: 150px; 
+    width: 650px;
+    background-color:yellow;
+
+}
+  .section{
+    height: 150px; 
+    width: 650px;
+    background-color:springgreen;
+}
+  .aside{
+    height: 300px; 
+    width: 350px;
+    background-color:indigo;
+}
+  

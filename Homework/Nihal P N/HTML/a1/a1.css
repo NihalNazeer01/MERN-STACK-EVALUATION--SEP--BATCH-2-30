@@ -1,0 +1,24 @@
+.body{
+    height: 715px;
+    width: 1215px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p1{ 
+    width: 100px;
+    height: 100px;
+    background: #000;
+    animation: moto 3s ease forwards;
+}
+@keyframes moto{
+  0% {
+     transform: translateX(0px);
+     transform: translateY(100px);
+
+}
+  100%{
+    transform: translateX(200px);
+    background-color: red;
+  }
+}

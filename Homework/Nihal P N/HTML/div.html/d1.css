@@ -1,0 +1,39 @@
+.body{
+    height: 140px; 
+    width: 50x;
+}
+  .header{
+    height: 10px; 
+    width: 50px;
+    background-color:rgb(6, 6, 6);
+}
+.menu{
+    height: 10px; 
+    width: 50px;
+    background-color: rgb(255, 42, 0);
+}
+  .hero{
+    height: 30px; 
+    width: 50px;
+    background-color:rgb(79, 164, 221);
+}
+  .main{
+    height: 30px; 
+    width: 50px; 
+    background-color: rgb(23, 8, 236);
+}
+  .banner{
+    height: 20px; 
+    width: 50px;
+    background-color:yellow;
+}
+.extra{
+    height: 20px; 
+    width: 50px;
+    background-color:rgb(13, 255, 0);
+}
+.image{
+    height: 20px; 
+    width: 50px;
+    background-color:rgb(175, 214, 235);
+}

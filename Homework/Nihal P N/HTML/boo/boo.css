@@ -1,0 +1,90 @@
+.body{
+    height: 600px;
+    width: 600px;
+    background:url(1234.avif);
+    background-position: center;
+    background-size: cover;
+}
+.b1{
+    height: 100px;
+    width: 600px;
+    display: flex;
+    background-color: rgba(15, 96, 247, 0.637);
+}
+.b11{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.b12{
+    height: 100px;
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.b2{
+    height: 100px;
+    width: 600px;
+}
+.b3{
+    height: 100px;
+    width: 600px;
+}
+.b31{
+    height: 50px;
+    width: 600px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.b32{
+    height: 50px;
+    width: 600px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.b4{ 
+    height: 100px;
+    width: 600px;
+}
+.b41{
+    height: 50px;
+    width: 600px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.b42{
+    height: 50px;
+    width: 600px;
+    display: flex;
+    justify-content:center;
+    align-items: start;
+}
+.b5{
+    height: 100px;
+    width: 600px;
+    display: flex;
+}
+.b51{
+    height: 100px;
+    width: 300px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.b52{
+    height: 100px;
+    width: 300px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.b6{
+    height: 100px;
+    width: 600px;
+}

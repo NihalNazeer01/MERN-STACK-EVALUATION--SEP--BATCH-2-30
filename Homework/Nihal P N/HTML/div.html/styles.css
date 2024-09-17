@@ -1,0 +1,25 @@
+    .header{
+            height: 70px; 
+            width: 1600px;
+            background-color:red;
+    }
+    .sidebar{
+            height: 1250px; 
+            width: 200px;
+            background-color:grey;
+    }
+    
+    
+
+
+
+    <div class="box3"></div>
+    <div class="box4"></div>
+    <div class="box5"></div>
+    <div class="box6"></div>
+
+
+
+
+
+    

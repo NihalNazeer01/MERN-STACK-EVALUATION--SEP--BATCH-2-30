@@ -1,0 +1,27 @@
+.body{
+    width: 1510px;
+    height: 710px;
+    background: url(logo123.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.h{
+    width: 1510px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.m{
+    width: 1510px;
+    height: 500px;
+
+}
+.f{
+    width: 1510px;
+    height: 110px;
+    margin-left: 25px;
+    display: flex;
+    align-items: start;
+}

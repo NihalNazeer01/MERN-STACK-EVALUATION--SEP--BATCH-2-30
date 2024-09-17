@@ -1,0 +1,41 @@
+.body{
+    height: 600px;
+    width: 600px;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    gap: 5px;
+    transition: grid-template columns;
+
+}
+.d{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.body:has(.l:hover)
+{
+    grid-template-columns:  5fr 2fr 2fr;
+}
+.body:has(.c:hover)
+{
+   grid-template-columns:   2fr 5fr 2fr;
+}
+.body:has(.r:hover)
+{
+    grid-template-columns:  2fr 2fr 5fr;
+}
+.l{
+    background: url(ac1.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+.c{
+    background: url(ac6.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+.r{
+    background: url(ac2.jpeg);
+    background-position: center;
+    background-size: cover;
+}
